@@ -1,0 +1,20 @@
+{
+    "name": "Budget",
+    "short_name": "Budget",
+    "theme_color": "#fffff",
+    "background_color": "#fffff",
+    "start_url": "/",
+    "display": "standalone",
+    "icons": [
+        {
+          "src": "/icons/icon-192x192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        },
+        {
+          "src": "/icons/icon-512x512.png",
+          "sizes": "512x452",
+          "type": "image/png"
+        }
+      ]
+    }
